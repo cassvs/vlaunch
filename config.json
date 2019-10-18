@@ -1,0 +1,7 @@
+{
+    "browser-exec": "firefox",
+    "private-option": "--private-window",
+    "new-tab-option": "--new-tab",
+    "search-engine-url": "https://duckduckgo.com/?q=",
+    "default-to-private": true
+}
